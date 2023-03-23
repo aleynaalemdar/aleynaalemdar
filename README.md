@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,  I'm Aleyna Alemdar</h1>
 🌱 I’m currently Computer Engineering student at TED University
 
-📫 **aleyna.alemdar@tedu.edu.tr**
+📫  **aleyna.alemdar@tedu.edu.tr**
 
 
 
