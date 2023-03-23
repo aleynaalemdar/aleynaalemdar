@@ -4,6 +4,9 @@
 📫 **aleyna.alemdar@tedu.edu.tr**
 
 
+<div class="tenor-gif-embed" data-postid="24991316" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316">Scaler Create Impact GIF</a>from <a href="https://tenor.com/search/scaler-gifs">Scaler GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aleynaalemdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleynaalemdar" height="30" width="40" /></a>
