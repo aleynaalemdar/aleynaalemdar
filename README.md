@@ -21,7 +21,7 @@ Hi 👋 My name is Aleyna Alemdar
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/aleynaalemdar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aleynaalemdar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a /></a> <a href="https://www.linkedin.com/in/aleynaalemdar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
 <b>My GitHub Stats</b>
