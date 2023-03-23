@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **aleyna.alemdar@tedu.edu.tr**
 
-- 📄 Also [https://www.linkedin.com/in/aleyna-alemdar-042a3a252/](https://www.linkedin.com/in/aleyna-alemdar-042a3a252/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
