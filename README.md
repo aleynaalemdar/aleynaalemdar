@@ -31,18 +31,3 @@
 
 <a href="https://github.com/aleynaalemdar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleynaalemdar&langs_count=10&title_color=000000&text_color=ec4899&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=askingunduzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=askingunduzz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleynaalemdar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleynaalemdar)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aleynaalemdar)](https://git.io/streak-stats)
