@@ -25,8 +25,6 @@
 
 <b>My GitHub Stats</b>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleynaalemdar&show_icons=true&locale=en&layout=compact" alt="aleynaalemdar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleynaalemdar&show_icons=true&locale=en" alt="aleynaalemdar" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleynaalemdar&" alt="aleynaalemdar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleynaalemdar&show_icons=true&locale=en" alt="aleynaalemdar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleynaalemdar&show_icons=true&locale=en&layout=compact" alt="aleynaalemdar" /></p>
