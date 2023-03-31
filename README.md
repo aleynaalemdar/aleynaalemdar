@@ -29,4 +29,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aleynaalemdar&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleynaalemdar&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+///////
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleynaalemdar&show_icons=true&locale=en&layout=compact" alt="aleynaalemdar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleynaalemdar&show_icons=true&locale=en" alt="aleynaalemdar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleynaalemdar&" alt="aleynaalemdar" /></p>
