@@ -2,6 +2,7 @@
 <h3 align="center">🌱 I’m currently Computer Engineering student at TED University</h3>
 
 - 📫 How to reach me **aleyna.alemdar@tedu.du.tr**
+- 🗺️ I'm from Ankara,Turkey.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38">
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
