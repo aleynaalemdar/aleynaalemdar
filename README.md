@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleyna Alemdar</h1>
-<h3 align="center">🌱 I’m currently Computer Engineering student at TED University</h3>
+<h3 align="center">📚 A Computer Engineering student at TED University</h3>
 
 - 📫 How to reach me **aleyna.alemdar@tedu.du.tr**
 - 🗺️ I'm from Ankara,Turkey.
