@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aleyna Alemdar</h1>
 <h3 align="center"> A Computer Engineering student at TED University</h3>
 
-- :love_letter: How to reach me **aleyna.alemdar@tedu.du.tr**
-- 🌟	 I'm from Ankara, Turkey.
+- :incoming_envelope: How to reach me **aleyna.alemdar@tedu.du.tr**
+- :earth_asia: I'm from Ankara, Turkey.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
