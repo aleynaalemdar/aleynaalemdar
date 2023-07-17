@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aleyna Alemdar</h1>
-<h3 align="center">📚 A Computer Engineering student at TED University</h3>
+<h3 align="center"> A Computer Engineering student at TED University</h3>
 
-- 📫 How to reach me **aleyna.alemdar@tedu.du.tr**
-- 🗺️ I'm from Ankara,Turkey.
+- :love_letter: How to reach me **aleyna.alemdar@tedu.du.tr**
+- 🌟	 I'm from Ankara, Turkey.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,9 +40,19 @@
   </a>
 </p>
 
+  <div class="github-stats">
+    <h3>My GitHub Stats:</h3>
+    <div class="stats-container">
+      <div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleynaalemdar&theme=graywhite" alt="GitHub Streak">
+      </div>
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=aleynaalemdar&show_icons=true&theme=graywhite" alt="GitHub Stats">
+      </div>
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleynaalemdar&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+      </div>
+    </div>
+  </div>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleynaalemdar&show_icons=true&theme=dark&locale=en&layout=compact" alt="aleynaalemdar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleynaalemdar&show_icons=true&theme=dark&locale=en" alt="aleynaalemdar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleynaalemdar&theme=dark" alt="aleynaalemdar" /></p>
