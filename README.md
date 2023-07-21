@@ -54,9 +54,9 @@
 ## My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleynaalemdar&theme=graywhite" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleynaalemdar&show_icons=true&theme=graywhite" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleynaalemdar&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="380" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleynaalemdar&theme=graywhite" alt="GitHub Streak" width="280" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=aleynaalemdar&show_icons=true&theme=graywhite" alt="GitHub Stats" width="280" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleynaalemdar&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="280" height="180">
 </p>
 
 
