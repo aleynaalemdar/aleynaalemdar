@@ -25,6 +25,11 @@ I'm currently rocking the role of a part-time Front-End Developer, shaping up ou
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
   </a>
 </p>
+<p align="left">
+  <a href="https://aleynaalemdar.itch.io " target="_blank">
+    <img src="http://itch.io/static/images/itchio-white.svg" alt="LinkedIn" height="60" width="70">
+  </a>
+</p>
 
 ##  Languages and Tools
 
@@ -56,6 +61,10 @@ I'm currently rocking the role of a part-time Front-End Developer, shaping up ou
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40">
   </a>
+ <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+ </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 </p>
 
 ## My GitHub Stats
