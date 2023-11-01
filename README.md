@@ -14,7 +14,7 @@ I'm currently rocking the role of a part-time Front-End Developer, shaping up ou
 
 ##  How to reach me
 
- 💌 Email: **aleyna.alemdar@tedu.du.tr**
+ 💌 Email: **aleyna.alemdar@tedu.edu.tr**
  ✨ Location: Ankara, Turkey.
  🎊 **https://aleynaalemdar.github.io**
 
