@@ -2,11 +2,6 @@
 <h1 align="center">Hi, I'm Aleyna Alemdar 👋</h1>
 <h3 align="center">A Computer Engineering Student at TED University </h3>
 
-
-I'm currently rocking the role of a part-time Front-End Developer, shaping up our university's student app, TEDUApp, with some coding skills! 😎💻
-
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="Animated GIF" width="200" height="200">
 </p>
