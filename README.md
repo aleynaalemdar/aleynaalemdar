@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Aleyna Alemdar 👋</h1>
-<h3 align="center">A Computer Engineering Student at TED University </h3>
+<h3 align="center">Computer Engineer </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="Animated GIF" width="200" height="200">
@@ -9,7 +9,7 @@
 
 ##  How to reach me
 
- 💌 Email: **aleyna.alemdar@tedu.edu.tr**
+ 💌 Email: **aleynaalemdar06@gmail.com**
  ✨ Location: Ankara, Turkey.
  🎊 **https://aleynaalemdar.github.io**
 
